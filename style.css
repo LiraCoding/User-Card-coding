@@ -1,0 +1,52 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.container {
+  display: block;
+  font-family: serif;
+  width: 400px;
+  height: 250px;
+  margin: 30px;
+  /* padding: 20px; */
+  border: 2px solid black;
+  /* margin-left: 10px; */
+  /* padding-left: 10px; */
+}
+
+.top-banner {
+  display: block;
+  background-color: #18a2b8;
+  width: 360px;
+  height: 20px;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+.profile {
+  height: 80px;
+  width: 80px;
+}
+
+.map {
+  height: 15px;
+  width: 15px;
+}
+
+.edit {
+  height: 15px;
+  width: 15px;
+}
+
+.info {
+  padding-left: 15px;
+}
+
+h1 {
+  font-weight: lighter;
+}
+
+h3 {
+  font-weight: lighter;
+}
